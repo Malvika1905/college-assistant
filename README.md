@@ -65,3 +65,7 @@ node index.js
 Start frontend
 cd client
 npm run dev
+
+## 🎥 Demo Video
+
+[Watch Demo]
