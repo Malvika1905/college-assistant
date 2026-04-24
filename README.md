@@ -68,4 +68,4 @@ npm run dev
 
 ## 🎥 Demo Video
 
-[Watch Demo]
+[Watch Demo] https://github.com/Malvika1905/college-assistant/blob/main/demo.mp4
